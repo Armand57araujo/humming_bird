@@ -1,0 +1,15 @@
+flask
+torch
+transformers
+numpy
+opencv-python
+# threejs-client
+pythreejs
+pyttsx3
+# blenderpy
+# visemesync
+ffmpeg-python
+mediapipe
+
+
+
